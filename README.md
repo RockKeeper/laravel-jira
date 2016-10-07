@@ -11,7 +11,7 @@ Easy access Jira rest api in Laravel5.
 ## Installation and Requirements
 
 ```sh
-composer require univerze/laravel-jira
+composer require rockkeeper/laravel-jira
 ```
 
 Afterwards, run `composer update` from your command line.
