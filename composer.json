@@ -11,6 +11,10 @@
         {
             "name": "Roland Bécsi",
             "email": "roland.becsi@gmail.com"
+        },
+        {
+            "name": "Roman Wollenburg",
+            "email": "roman.wollenburg@gmail.com"
         }
     ],
     "minimum-stability": "dev",
